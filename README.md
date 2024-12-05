@@ -8,6 +8,7 @@ I am a software developer living on the Mornington Peninsula near Melbourne, Aus
 - [ASP.NET Core](https://github.com/dotnet/aspnetcore) (pretty much the best web stack around)
 - [Encode Decode](https://marketplace.visualstudio.com/items?itemName=mitchdenny.ecdc) (a VSCode plugin with common encoding/decoding utilities)
 - [Namerer](https://github.com/mitchdenny/namerer) (a silly little utiltity to generate names for things)
+- ... and much more that I can't can't talk about or can't remember over a 30+ year career.
 
 ## On the socials
 
