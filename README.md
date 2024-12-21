@@ -22,7 +22,6 @@ I am a software developer living on the Mornington Peninsula near Melbourne, Aus
 - .NET development (duh)
 - _Cloud native_ platforms/tools (Kubernetes, Docker, observability etc)
 - Star Citizen (I'm a space pirate yar!)
-- Autism and ADHD (#actuallyautistic / self-DX)
 
 # Contact me
 
