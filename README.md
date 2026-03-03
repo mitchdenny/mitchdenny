@@ -5,6 +5,8 @@ I am a software developer living on the Mornington Peninsula near Melbourne, Aus
 ## Some projects
 
 - [.NET Aspire](https://github.com/dotnet/aspire) (an awesome framework for making distributed app development easier)
+- [Hex1b](https://hex1b.dev)
+- [Sigstore for .NET](https://github.com/mitchdenny/sigstore-dotnet)
 - [ASP.NET Core](https://github.com/dotnet/aspnetcore) (pretty much the best web stack around)
 - [Encode Decode](https://marketplace.visualstudio.com/items?itemName=mitchdenny.ecdc) (a VSCode plugin with common encoding/decoding utilities)
 - [Namerer](https://github.com/mitchdenny/namerer) (a silly little utiltity to generate names for things)
