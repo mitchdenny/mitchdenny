@@ -1,10 +1,10 @@
 ## Hi, I'm Mitch.
 
-I am a software developer living on the Mornington Peninsula near Melbourne, Australia. I work at Microsoft on the .NET platform. For the last few years I've been working on [.NET Aspire](https://github.com/dotnet/aspire) and [ASP.NET Core](https://github.com/dotnet/aspnetcore). Other things that I've worked at Microsoft include working on [Azure Managed Grafana](https://azure.microsoft.com/en-us/products/managed-grafana), the [Azure SDK](https://github.com/Azure/azure-sdk), [Azure DevOps](https://azure.microsoft.com/en-au/products/devops) and 1ES.
+I am a software developer living on the Mornington Peninsula near Melbourne, Australia. I work at Microsoft on the .NET platform. For the last few years I've been working on [Aspire](https://github.com/microsoft/aspire) and [ASP.NET Core](https://github.com/dotnet/aspnetcore). Other things that I've worked at Microsoft include working on [Azure Managed Grafana](https://azure.microsoft.com/en-us/products/managed-grafana), the [Azure SDK](https://github.com/Azure/azure-sdk), [Azure DevOps](https://azure.microsoft.com/en-au/products/devops) and 1ES.
 
 ## Some projects
 
-- [.NET Aspire](https://github.com/dotnet/aspire) (an awesome framework for making distributed app development easier)
+- [Aspire](https://github.com/microsoft/aspire) (an awesome framework for making distributed app development easier)
 - [Hex1b](https://hex1b.dev)
 - [Sigstore for .NET](https://github.com/mitchdenny/sigstore-dotnet)
 - [ASP.NET Core](https://github.com/dotnet/aspnetcore) (pretty much the best web stack around)
